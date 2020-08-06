@@ -12,6 +12,11 @@
 
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
+    <string name="pathToFile">/data/data/com.udacity.sandwichclub/files/sandwichListFile.txt</string>
+    <string name="origin_of_sandwich">Origin of Sandwich</string>
+    <string name="also_known_as">Also Known As</string>
+    <string name="description">Description of Sandwich</string>
+    <string name="ingredients_list">Ingredients List</string>
 
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
