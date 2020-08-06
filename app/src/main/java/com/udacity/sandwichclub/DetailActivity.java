@@ -187,12 +187,6 @@ public class DetailActivity extends AppCompatActivity {
 
             return alsoKnownAsString.toString();
 
-
-            //alsoKnownAsTV.setText(alsoKnownAsString.toString());
-
-//        for (Sandwich sandwich : sandWichList) {
-//            Log.i("DetailActivity","sand");
-//        }
         }
     }
 
